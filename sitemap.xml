@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://chuangyu-tian.github.io/home/</loc>
+    <lastmod>2020-03-27T20:32:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chuangyu-tian.github.io/home/post/</loc>
+    <lastmod>2020-03-27T20:32:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chuangyu-tian.github.io/home/post/2020/03/27/t_first_blog/</loc>
+    <lastmod>2020-03-27T20:32:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chuangyu-tian.github.io/home/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chuangyu-tian.github.io/home/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

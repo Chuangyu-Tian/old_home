@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Ivy</title>
+    <link>https://chuangyu-tian.github.io/home/</link>
+    <description>Recent content on Hugo Ivy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Mar 2020 20:32:46 +0800</lastBuildDate>
+    
+	<atom:link href="https://chuangyu-tian.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>T_first_blog</title>
+      <link>https://chuangyu-tian.github.io/home/post/2020/03/27/t_first_blog/</link>
+      <pubDate>Fri, 27 Mar 2020 20:32:46 +0800</pubDate>
+      
+      <guid>https://chuangyu-tian.github.io/home/post/2020/03/27/t_first_blog/</guid>
+      <description>今天心情很糟</description>
+    </item>
+    
+  </channel>
+</rss>
